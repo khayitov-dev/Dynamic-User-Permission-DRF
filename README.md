@@ -1,1 +1,1 @@
-![image](https://github.com/khayitov-dev/Dynamic-User-Permission-DRF/assets/89244992/781e8752-b730-446d-bc0d-30f2742ad320)
+![image](https://github.com/khayitov-dev/Dynamic-User-Permission-DRF/assets/89244992/3cbdf7e7-ac0e-4a1f-bca5-ca667d85782f)
